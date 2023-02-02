@@ -1,5 +1,5 @@
-# next-prisma-postgres
+# Next Prisma and Postgres
 
-## Next.js 13
+## A full stack application built with Next.js 13 Prisma ORM and Postgres DB
 
 ### Hosted on Vercel [here](https://next-prisma-postgres-beta.vercel.app/)
